@@ -79,6 +79,9 @@ body::before{
     font-size: 20px;
     text-align: center;
 }
+.lista-de-personagens .personagem img {
+    border-bottom: 2px solid #47f4ff;
+}
 .personagem-selecionado .descricao-personagem{
     font-size: 16px;
     line-height: 22px;
